@@ -1,10 +1,14 @@
-### Hi there 👋
+# Hi there! Gabriel here 👋
 
 - Currently working on Paired Up - A couple's app to plan, chat and record memories together ❤️
 - Undergoing a career transition to become a full-stack software engineer with Rocket Academy 🚀
 
-#### Tech Stack:
-- React
+## Tech Stack:
+- Languages: Javascript, Python, HTML, CSS, SQL
+- FE: React, TailwindCSS, Framer Motion
+- BE: ExpressJS
+- Others: Firebase, Axios, Netlify
+
 <!--
 **gbrllim/gbrllim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
