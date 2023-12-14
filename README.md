@@ -3,10 +3,10 @@
 - Currently working on [Bitjar.xyz](bitjar.xyz) - Zero to crypto in a few minutes! 
 - Undergoing a career transition to become a full-stack software engineer with Rocket Academy 🚀
 
-## Projects:
-- Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
-- Paired Up: A couple's app to plan, chat and record memories together ❤️
+## Past Projects:
 - GitHired: Ultimate job application tracker for Software Developers
+- Paired Up: A couple's app to plan, chat and record memories together ❤️
+- Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
 
 ## Tech Stack:
 - Languages: Javascript, Python, HTML, CSS, SQL
