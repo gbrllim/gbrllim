@@ -1,15 +1,18 @@
 # Hi there! Gabriel here 👋
 
-- Currently working on Paired Up - A couple's app to plan, chat and record memories together ❤️
+- Currently working on [Bitjar.xyz](bitjar.xyz) - Zero to crypto in a few minutes! 
 - Undergoing a career transition to become a full-stack software engineer with Rocket Academy 🚀
 
 ## Projects:
-- Investronaut: 
+- Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
+- Paired Up: A couple's app to plan, chat and record memories together ❤️
+- GitHired: Ultimate job application tracker for Software Developers
 
 ## Tech Stack:
 - Languages: Javascript, Python, HTML, CSS, SQL
-- FE: React, TailwindCSS, Framer Motion
-- BE: ExpressJS
+- Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGecko
+- FE: React, TailwindCSS, Framer Motion, DaisyUI
+- BE: ExpressJS, Postgres, Sequelize
 - Others: Firebase, Axios, Netlify
 
 <!--
