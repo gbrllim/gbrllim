@@ -17,6 +17,7 @@
 - Others: Firebase, Axios, Netlify
 
 ## Past Hacks
+- Singapore Blockchain Innovation Challenge (2024) - 1st runner up
 - Luno Annual Hackathon (2022)
 - Luno Annual Hackathon (2021)
 - Garage@EEE IdeasJam (2020)
