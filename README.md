@@ -17,11 +17,11 @@
 - Others: Firebase, Axios, Netlify, Juno.build
 
 ## Past Hacks
-- Singapore Blockchain Innovation Challenge (2024) - 1st runner up
-- Luno Annual Hackathon (2022)
-- Luno Annual Hackathon (2021)
-- Garage@EEE IdeasJam (2020)
-- Crypto.com Hackathon (2019) - 2nd runner up
+- Singapore Blockchain Innovation Challenge (2024) - OpenRefinery.AI, Train2Earn Crowdsourcing platform
+- Luno Annual Hackathon (2022) - #mykeysmycoins, Luno Web3 Wallet
+- Luno Annual Hackathon (2021) - Gas price alerts
+- NTU Garage@EEE IdeasJam (2020)
+- Crypto.com Case Challenge (2019) - #Lock2Unlock
 
 ## Past Talks
 - "Quick outlook - Crypto in Asia 2022" - Gendora; Panelist
