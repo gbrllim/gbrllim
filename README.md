@@ -10,10 +10,10 @@
 - Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
 
 ## Tech Stack:
-- Languages: Javascript, Java, Python, HTML, CSS, SQL
-- Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGecko
-- FE: React, TailwindCSS, Framer Motion, DaisyUI
+- Languages: Typescript,Javascript, Java, Python, HTML, CSS, SQL
+- FE: NextJS, React, TailwindCSS, Framer Motion
 - BE: ExpressJS, Postgres, Sequelize
+- Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGeckoAPI
 - Others: Firebase, Axios, Netlify, Juno.build
 
 ## Past Hacks
