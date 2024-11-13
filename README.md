@@ -1,7 +1,6 @@
 # Hi there! Gabriel here 👋
 
-- Currently working on OpenRefinery.AI - Train2Earn crowdsourcing platform
-- Undergoing a career transition to become a full-stack software engineer with Rocket Academy 🚀
+- Currently at Pints.AI - Developing secure & private AI solutions for finance
 
 ## Past Projects:
 - [Bitjar.xyz](bitjar.xyz): Non-custodial crypto staking platform - Zero to crypto in a few minutes!🚀
@@ -12,9 +11,9 @@
 ## Tech Stack:
 - Languages: Typescript,Javascript, Java, Python, HTML, CSS, SQL
 - FE: NextJS, React, TailwindCSS, Framer Motion
-- BE: ExpressJS, Postgres, Sequelize
+- BE: ExpressJS, Postgres, Sequelize, MongoDB, Prisma
 - Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGeckoAPI
-- Others: Firebase, Axios, Netlify, Juno.build
+- Others: Firebase, Axios, Netlify, Juno.build, Supabase
 
 ## Past Hacks
 - Singapore Blockchain Innovation Challenge (2024) - OpenRefinery.AI, Train2Earn Crowdsourcing platform
