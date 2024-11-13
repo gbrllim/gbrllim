@@ -3,7 +3,7 @@
 - Currently at Pints.AI - Developing secure & private AI solutions for finance
 
 ## Past Projects:
-- [Bitjar.xyz](bitjar.xyz): Non-custodial crypto staking platform - Zero to crypto in a few minutes!🚀
+- [Bitjar.xyz](https://bitjar.xyz): Non-custodial crypto staking platform - Zero to crypto in a few minutes!🚀
 - GitHired: Ultimate job application tracker for Software Developers
 - Paired Up: A couple's app to plan, chat and record memories together ❤️
 - Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
