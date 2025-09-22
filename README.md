@@ -3,17 +3,19 @@
 - Currently at Pints.AI - Developing secure & private AI solutions for finance
 
 ## Past Projects:
+- [OpenRefinery.AI](https://vzxr6-nqaaa-aaaal-aja7q-cai.icp0.io/): Decentralized and transparent data crowdsourcing platform built on Internet Computer Protocol (ICP)
 - [Bitjar.xyz](https://bitjar.xyz): Non-custodial crypto staking platform - Zero to crypto in a few minutes!🚀
 - GitHired: Ultimate job application tracker for Software Developers
 - Paired Up: A couple's app to plan, chat and record memories together ❤️
 - Investronaut: Customisable drag-and-drop investment widgets on a dashboard (Stock market APIs, Notes etc.)
 
 ## Tech Stack:
-- Languages: Typescript,Javascript, Java, Python, HTML, CSS, SQL
-- FE: NextJS, React, TailwindCSS, Framer Motion
-- BE: ExpressJS, Postgres, Sequelize, MongoDB, Prisma
+- Languages: Typescript, Javascript, Java, Python, HTML, CSS, SQL
+- FE: NextJS, React, TailwindCSS, Zustand, Framer Motion, React Query
+- BE: Node.js, ExpressJS, Postgres, Sequelize, MongoDB, Prisma, Zod
 - Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGeckoAPI
-- Others: Firebase, Axios, Netlify, Juno.build, Supabase
+- DevOps: Sentry, Kubernetes. AWS
+- Others: Firebase, Axios, Netlify, Juno.build, Supabase, Stripe
 
 ## Past Hacks
 - Singapore Blockchain Innovation Challenge (2024) - OpenRefinery.AI, Train2Earn Crowdsourcing platform
