@@ -12,7 +12,7 @@
 ## Tech Stack:
 - Languages: Typescript, Javascript, Java, Python, HTML, CSS, SQL
 - FE: NextJS, React, TailwindCSS, Zustand, Framer Motion, React Query
-- BE: Node.js, ExpressJS, Postgres, Sequelize, MongoDB, Prisma, Zod
+- BE: Node.js, ExpressJS, Postgres, Sequelize, MongoDB, Prisma, Zod, Redis
 - Web3: Alchemy, Web3.js, MoonPay, 0x, CMC, CoinGeckoAPI
 - DevOps: Sentry, Kubernetes. AWS
 - Others: Firebase, Axios, Netlify, Juno.build, Supabase, Stripe
